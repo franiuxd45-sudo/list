@@ -1,18 +1,34 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id":62912799 ,
+    "name": "Ashley Wave Trials,
+    "author": "OddMod",
+    "creators": ["nickname", "Zoink"
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=aTxt76U3e2Q",
+    "percentToQualify": 77,
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "BhoCookie",
+            "link": "https://www.youtube.com/watch?v=C3LsiXWwWEw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+ {
+            "user": "yolomodeboom",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 720
+        }
+    ]
+}
+ {
+            "user": "WavStar",
+            "link": "https://www.youtube.com/watch?v=_yD1xZeZ5zk",
+            "percent": 77,
+            "hz": 480
         }
     ]
 }
